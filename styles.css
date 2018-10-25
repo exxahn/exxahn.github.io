@@ -1,0 +1,29 @@
+h2 {
+			color: pink;
+		}
+
+#landing {
+	text-align: center;
+	padding-top: 50px
+}
+
+#blurb > a {
+	margin: 0 10px;
+}
+
+
+.lead{
+	font-size: 1.2em;
+	font-weight: lighter;
+}
+
+section {
+	margin-top: 20px
+	padding-left: 20px
+}
+
+body {
+	max-width: 10000px
+	margin: auto;
+	font-family: 'Muli', sans-serif;
+}
